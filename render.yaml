@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: digitalin-store-bot
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot.py
+    healthCheckPath: /
+    # Semua environment variables dikelola via Render Dashboard > Environment.
+    # JANGAN simpan secrets di file ini karena ter-commit ke git.
