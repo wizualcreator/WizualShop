@@ -5,7 +5,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 import config
 import db
 
-BRAND = "DIGITALIN STORE"
+BRAND = "WIZUAL SHOP"
 
 
 def esc(s):
@@ -13,7 +13,7 @@ def esc(s):
 
 
 def header(title=None):
-    lines = [f"✦ <b>{BRAND}</b> ✦", "Your Digital Playground"]
+    lines = [f"✦ <b>{BRAND}</b> ✦", "Level Up Your Digital Life"]
     if title:
         lines.append("")
         lines.append(title)

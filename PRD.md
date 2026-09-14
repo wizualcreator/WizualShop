@@ -1,4 +1,4 @@
-# PRD — Bot Telegram Toko Produk Digital "DIGITALIN STORE"
+# PRD — Bot Telegram Toko Produk Digital "WIZUAL SHOP"
 
 > Rekonstruksi dari kode produksi + git history. Dipakai sebagai prompt untuk membuat bot dari awal.
 
@@ -97,7 +97,7 @@ Bot membaca semua sheet via `gviz/tq?tqx=out:csv&sheet=...`. Write-back lewat Ap
 
 ## 10. Pesan kunci (karena diminta sebelumnya, jangan diubah)
 
-- Brand header: `✦ <b>DIGITALIN STORE</b> ✦` + tagline `Your Digital Playground`.
+- Brand header: `✦ <b>WIZUAL SHOP</b> ✦` + tagline `Level Up Your Digital Life`.
 - Home: `👋 Hai, <b>nama</b>!` / `Mau upgrade digital apa hari ini?` / `🔥 Kalau yang lagi hot ada:` / `Pilih untuk mulai belanja 👇`.
 - Produk: `{emoji} <b>{nama}</b>` / `   Rp{harga:,} · 🟢 {n} ready|⏳ sold out`.
 - Daftar produk dipisah spasi lega (bukan garis pemisah).

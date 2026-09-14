@@ -1,0 +1,2 @@
+KEY	VALUE
+ADMIN_USERNAME	wizualcreator

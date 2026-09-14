@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: digitalin-store-bot
+    name: wizualshop-bot
     runtime: python
     plan: free
     buildCommand: pip install -r requirements.txt

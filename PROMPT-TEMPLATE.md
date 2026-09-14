@@ -76,8 +76,8 @@ QRIS; rate-limit Apps Script; test pytest (race condition stok).
 
 | Placeholder | Contoh |
 |---|---|
-| [NAMA_TOKO] | DIGITALIN STORE |
-| [TAGLINE_TOKO] | Your Digital Playground |
+| [NAMA_TOKO] | WIZUAL SHOP |
+| [TAGLINE_TOKO] | Level Up Your Digital Life |
 | [KALIMAT_PROMO] | 🔥 Kalau yang lagi hot ada: |
 | [CHANNEL] | @NamaChannelUpdate |
 | [WARNA_BORDER] | #144cf9 |

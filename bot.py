@@ -1421,7 +1421,7 @@ def main():
     app.job_queue.run_repeating(cleanup_reservations, interval=60, first=45)
     app.job_queue.run_repeating(keep_alive, interval=300, first=60)
 
-    logger.info("Bot Digitalin Store berjalan (polling)...")
+    logger.info("Bot Wizual Shop berjalan (polling)...")
     app.run_polling()
 
 

@@ -60,7 +60,7 @@ function markRowsSold(rows) {
 }
 
 function doGet() {
-  return HtmlService.createHtmlOutput('Digitalin Store Bot OK');
+  return HtmlService.createHtmlOutput('Wizual Shop Bot OK');
 }
 
 function tg(method, payload) {
@@ -149,7 +149,7 @@ function handleTelegram(update) {
 
 function sendStartMessage(chatId) {
   const settings = getSettings();
-  const storeName = settings['STORE_NAME'] || 'Digitalin Store';
+  const storeName = settings['STORE_NAME'] || 'Wizual Shop';
   const stock = stockSummary();
 
   const message =

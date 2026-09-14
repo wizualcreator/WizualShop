@@ -1,0 +1,7 @@
+STOCK_ID	PRODUCT_ID	CONTENT	STATUS	SOLD_TO
+S001	D0001	email@demo.com:password:backupcode	AVAILABLE
+S002	D0001	email2@demo.com:password2:backupcode2	AVAILABLE
+S003	D0003	notion@demo.com:password	AVAILABLE
+S004	D0004	canva@demo.com:password	AVAILABLE
+S005	D0006	viu@demo.com:password	AVAILABLE
+S006	D0007	bstation@demo.com:password	AVAILABLE
